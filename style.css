@@ -5,5 +5,11 @@
     --botao-inativo:rgba(0, 3, 94, 0.77);
     --texto-principal:rgba(83, 138, 250, 1);
     --texto-tempo:rgba(81, 0, 250, 1);
+    --cor-de-fundo:rgba(115, 114, 128, 0.3);
 
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', 'Sans-Serif';
 }
