@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Fredoka:wght@300..700&display=swap');
 :root{
     --branco:#FFFFFF;
-    --azul:00A0FA;
-    --azul1:#00035E;
-    --azul2:002C85;
-    --azul3:00EFFA;
-    --azul4:538AFA;
+    --botao-ativo:rgba(0, 3, 94, 1);
+    --botao-inativo:rgba(0, 3, 94, 0.77);
+    --texto-principal:rgba(83, 138, 250, 1);
+    --texto-tempo:rgba(81, 0, 250, 1);
+
 }
