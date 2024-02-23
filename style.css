@@ -28,5 +28,5 @@ body{
     font-size: 32px;
 }
 .titulo-principal span{
-    color: var(--botao-ativo);
+    color: var(--texto-tempo);
 }
