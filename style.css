@@ -30,3 +30,8 @@ body{
 .titulo-principal span{
     color: var(--texto-tempo);
 }
+.botao{
+    font-family: 'Chakra Petch', Sans-Serif;
+    background-color: var(--botao-inativo);
+    color: #FFFFFF;
+}
